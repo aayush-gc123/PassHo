@@ -27,8 +27,8 @@ To run PassHo locally on your machine, follow these steps:
    
    git clone https://github.com/your-username/passho.git
 
-   1.Run the command:
-   ```bash
-   
-   npm run dev
+1. run the command
+  ```bash
+  npm run dev 
+  
 
